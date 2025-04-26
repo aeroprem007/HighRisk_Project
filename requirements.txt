@@ -1,0 +1,8 @@
+openai
+pandas
+numpy
+transformers
+torch
+shap
+synthcity
+Pillow
